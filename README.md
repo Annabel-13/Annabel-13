@@ -1,5 +1,6 @@
 ## Hi there 👋
-<p style="font-size: 2rem; font-weight: 500; color: darkviolet;">Welcome to my GitHub!</p>
+<h3 align="center">💜 Welcome to my GitHub! 💜</h3>
+
 <div align="center">
   <img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Cozy animation" />
 </div>
@@ -10,22 +11,5 @@
    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React animation" />
 </div>
 
-
-
-<!--
-**Annabel-13/Annabel-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabel-13&layout=compact)
-</div>
+
