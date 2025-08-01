@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p font-size="2rem" font-weight="500" color="dark-violet">Welcome to my GitHub!</p>
+<p style="font-size: 2rem; font-weight: 500; color: darkviolet;">Welcome to my GitHub!</p>
 <div align="center">
   <img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Cozy animation" />
 </div>
@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabel-13&layout=compact)
+</div>
