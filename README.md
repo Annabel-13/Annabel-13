@@ -14,6 +14,9 @@
 </div>
 
 ###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabel-13&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabel-13&layout=compact)
 
