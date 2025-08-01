@@ -1,6 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub!
-![Cozy_place](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+<p font-size="2rem" font-weight="500" color="dark-violet">Welcome to my GitHub!</p>
 <div align="center">
   <img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Cozy animation" />
 </div>
