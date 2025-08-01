@@ -15,8 +15,8 @@
 
 ###
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabel-13&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabel-13&layout=compact&bg_color=00000080&title_color=ffffff&text_color=ffffff&hide_border=true" width="450" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabel-13&layout=compact)
+
 
