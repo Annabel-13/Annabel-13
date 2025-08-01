@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JS animation" />
-  <img width="70%" src="https://ph-files.imgix.net/2ccea9a4-1042-48b4-aa1a-49be6a993e5c.gif?auto=format" alt="TS animation" />
+  <img width="20%" src="https://ph-files.imgix.net/2ccea9a4-1042-48b4-aa1a-49be6a993e5c.gif?auto=format" alt="TS animation" />
    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React animation" />
    
 </div>
